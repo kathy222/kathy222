@@ -91,13 +91,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kathy222&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
----
-
 <p align="center">
   <i>✨ Graduating soon and ready to build something meaningful. Let's connect! ✨</i>
 </p>
