@@ -23,12 +23,12 @@
 
 ### 🙋‍♀️ About Me
 
-- 🎓 Final-year **Computer Science** student @ University of Crete (CSD)
-- 💼 Interned at **Biopix / FORTH** — built front-end for medical data visualization apps
-- 🌍 Built apps with **3D globes, geospatial maps, melanoma detection** & more
-- 🤖 Robotics educator for kids (LEGO SPIKE) — 2 summers running
+- 🎓 Final-year **Computer Science** student @ University of Crete (CSD) — graduating 2026
+- 📝 **Thesis:** Built FINS, a full React/TypeScript web app for marine biodiversity exploration using semantic knowledge graphs & REST APIs
+- 💼 Interned at **Biopix / FORTH** — front-end for medical data visualization apps
+- 🤖 Robotics educator for kids (LEGO SPIKE) — 2 summers
 - 🌱 Currently learning **React Native** for mobile development
-- 💬 Ask me about **Angular, Three.js, UI/UX design, or Figma**
+- 💬 Ask me about **Angular, React, Three.js, UI/UX design, or Figma**
 
 ---
 
@@ -60,6 +60,16 @@
 ---
 
 ### 🚀 Featured Projects
+
+
+#### 🐟 [FINS — Fish INformation System](https://github.com/kathy222/fins-project) *(Bachelor's Thesis)*
+> A web application that makes the **SemantyFish semantic knowledge base** accessible to non-technical users — researchers, educators & the public.
+- 🔍 Simple + advanced multi-criteria search (13 filters) over marine biodiversity data
+- 🌍 Multilingual species names in 12+ languages with flag indicators
+- 📊 Rich species profiles: taxonomy, morphology, ecology, conservation & commercial data
+- 🏛️ Three-tier MVC architecture · REST API integration · CORS proxy handling
+- **Stack:** React 18, TypeScript 5, Material-UI v5, Framer Motion, Vite
+
 
 | Project | Description | Tech |
 |---------|-------------|------|
