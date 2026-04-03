@@ -27,8 +27,7 @@
 - 📝 **Thesis:** Built FINS, a full React/TypeScript web app for marine biodiversity exploration using semantic knowledge graphs & REST APIs
 - 💼 Interned at **Biopix / FORTH** — front-end for medical data visualization apps
 - 🤖 Robotics educator for kids (LEGO SPIKE) — 2 summers
-- 🌱 Currently learning **React Native** for mobile development
-- 💬 Ask me about **Angular, React, Three.js, UI/UX design, or Figma**
+- 🌱 Currently learning **React Native** 
 
 ---
 
