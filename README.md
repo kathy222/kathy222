@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Katerina 👋</h1>
 
-<!--
-**kathy222/kathy222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Front-End Developer & CS Student · University of Crete</b><br/>
+  🎨 I turn ideas into clean, responsive, user-centric interfaces<br/>
+  🔬 Former intern @ <b>FORTH</b> (Foundation for Research and Technology)<br/>
+  🚀 Graduating soon · Open to junior front-end roles
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:kathykambouraki7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/κατερίνα-καμπουρακη-7a3472300">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kathy222">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🙋‍♀️ About Me
+
+- 🎓 Final-year **Computer Science** student @ University of Crete (CSD)
+- 💼 Interned at **Biopix / FORTH** — built front-end for medical data visualization apps
+- 🌍 Built apps with **3D globes, geospatial maps, melanoma detection** & more
+- 🤖 Robotics educator for kids (LEGO SPIKE) — 2 summers running
+- 🌱 Currently learning **React Native** for mobile development
+- 💬 Ask me about **Angular, Three.js, UI/UX design, or Figma**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🩺 **SkinTriage Pro** | Mobile-first melanoma detection app with 3D body picker | Three.js, WebGL, JS |
+| 🌍 **PEBBLE Navigator** | Geospatial data visualization with 2D maps & 3D globe | Leaflet, CesiumJS, Chart.js |
+| 🚒 **Emergency Incident System** | Real-time fire department incident management system | Java Servlets, AJAX, REST |
+| ✈️ **Travel Agency App** | Booking & travel management web app | Angular, Node.js |
+| 💼 **Job Application App** | Full UI/UX prototype for a job search mobile app | Figma |
+| 🗄️ **Employee Database** | Employee management system with search & reporting | PHP, MySQL |
+
+---
+
+### 💼 Experience
+
+🔬 **Front-End Developer Intern · Biopix (FORTH)** *(Summer 2025)*
+> Medical data visualization apps in an academic research environment
+
+🤖 **Robotics Educator · ΚΔΑΠ FREE KIDS FESTOS** *(Summers 2023 & 2024)*
+> Taught programming & algorithmic thinking to children via LEGO SPIKE
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathy222&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathy222&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Graduating soon and ready to build something meaningful. Let's connect! ✨</i>
+</p>
